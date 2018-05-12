@@ -1,0 +1,30 @@
+_repo: Aino-Folk-Tales_29287
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chamberlain, Basil Hall
+    alias: Chamberlain, B. H. (Basil Hall)
+    birthdate: 1850
+    deathdate: 1935
+    gutenberg_agent_id: '947'
+    url: http://www.gutenberg.org/2009/agents/947
+    wikipedia: http://en.wikipedia.org/wiki/Basil_Hall_Chamberlain
+description: ''
+gutenberg_issued: '2009-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29287'
+  lccn: 08030576
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ainu -- Folklore'
+- !lcc 'GR'
+- !lcsh 'Tales -- Japan'
+title: Aino Folk-Tales
+url: http://www.gutenberg.org/ebooks/29287
