@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/947
     wikipedia: http://en.wikipedia.org/wiki/Basil_Hall_Chamberlain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29287#Aino-Folk-Tales
 gutenberg_issued: '2009-07-01'
 gutenberg_type: Text
 identifiers:
